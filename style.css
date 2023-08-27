@@ -1,0 +1,59 @@
+html 
+{
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+/* Style for the display area */
+#displayArea {
+  border: 5px solid #942192;
+  padding: 10px;
+  min-height: 100px;
+  margin-top: 10px; /* Add some space between the text input and the display area */
+  background-color: #f4a4c0; /* Add a background color to make it visually distinct */
+}
+
+
+/* Style for the becca image container */
+.becca-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Style for the becca image */
+#becca {
+  margin-top: 20px;
+  max-width: 50%;
+  border: 2px solid #000; /* Add a border around the image */
+  border-radius: 10px; /* Add border radius for a nice effect */
+}
+
+/* Style for the becca text */
+.becca-text {
+  margin-left: 20px; /* Add some space between the image and the text */
+  font-weight: bold;
+}
+
+/* Style for the fezzi image container */
+.fezzi-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the fezzi image */
+.fezzi {
+  max-width: 50%;
+  border: 2px solid #000; /* Add a border around the image */
+  border-radius: 10px; /* Add border radius for a nice effect */
+}
+
+/* Style for the fezzi text */
+.fezzi-text {
+  margin-left: 20px; /* Add some space between the image and the text */
+  font-weight: bold;
+}
+
