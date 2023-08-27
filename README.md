@@ -1,4 +1,4 @@
-Usability:
+# Usability:
 This is a prototype of a keylogger
 
 Type inside the box that says "Type Here"
